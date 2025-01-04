@@ -8,7 +8,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">WE IMPLEMENTED CI/CD USING JENKINS</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">I'm Naga pavan Adusumalli</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">working as a DevOps engineer</h1>
-	<h1 style="color: yellow; font-size: 40px;" align="center">we used most of the tools in jenkins </h1>
+	<h1 style="color: orange; font-size: 40px;" align="center">we used most of the tools in jenkins </h1>
 	
 	
 	
